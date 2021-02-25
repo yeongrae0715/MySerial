@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MySerial</string>
+    <string name="send">sending start</string>
+    <string name="connect">connect</string>
+    <string name="disconnect">disconnect</string>
+    <string name="stopsend">stop sending</string>
+</resources>
